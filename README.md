@@ -1,2 +1,2 @@
 # Harry-Potter-Invisibility-Cloak
-This is simply a program that uses color segmentation and a bit of image processing to replace the foreground object of interest with the background
+Being a harry potter fan I always had a childhood fantasy of using an invisibility cloak. Well it turns out that using simple image processing tricks I can now actually fulfil my childhood fantasy. This code turns a red colour cloth into an invisibility cloak.
